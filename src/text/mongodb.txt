@@ -1,0 +1,12 @@
+no sql : 
++ no joins 
++ no complex transactions
+
+Data model : 
+key / value ---- data structure
+memcached , dynamo // research more 
+tabular ---- dang bang 
+big table  
+document oriented 
+
+
