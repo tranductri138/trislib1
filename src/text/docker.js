@@ -1,5 +1,5 @@
 
-const readline = require('readline')
+import readline from 'readline'
 const Introduction = ['Introduction to Docker', 'Features of Docker', 'Docker Architecture', 'Docker Hub', 'Docker Cloud']
 
 

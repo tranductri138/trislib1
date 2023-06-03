@@ -2,6 +2,7 @@
   "name": "hometris",
   "version": "1.0.0",
   "description": "this is backend server side of website ",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
