@@ -1,3 +1,4 @@
-const {git} = require('./tableOfContent')
+const {git , a} = require('./tableOfContent')
 
-console.log(git)
+
+a()
