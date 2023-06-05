@@ -3,5 +3,6 @@
 
  module.exports = {
     git ,
-     a : require('./a')
+     a : require('./a') ,
+     read : require('./skills')
  }

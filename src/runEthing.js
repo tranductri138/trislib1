@@ -1,4 +1,5 @@
-const {git , a} = require('./tableOfContent')
+const {read , a} = require('./tableOfContent')
 
 
-a()
+// a()
+read()
