@@ -9,7 +9,7 @@ const tenSkills = [
   "Document",
   "Communicate",
   "Estimate",
-  "Balace",
+  "Balance",
   "Consult",
   "Market",
 ];
