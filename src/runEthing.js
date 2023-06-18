@@ -1,5 +1,7 @@
-const {read , a} = require('./tableOfContent')
-
+const { read, a } = require("./tableOfContent");
+const { shouldGo } = require("./tuhocSoftwareArch/listNeed");
 
 // a()
-read()
+// read();
+
+shouldGo();
