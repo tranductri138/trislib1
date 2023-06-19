@@ -10,6 +10,7 @@ const shouldGo = () => {
     systemDS: "https://roadmap.sh/system-design",
     softwareArc: "https://roadmap.sh/software-design-architecture",
     devOps: "https://roadmap.sh/devops",
+    SA  : 'https://roadmap.sh/software-architect'
   };
   console.table(detail);
   console.log("-----");
